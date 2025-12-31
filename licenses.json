@@ -1,0 +1,10 @@
+{
+  "licenses": [
+    {
+      "key": "M1-1234-TEST",
+      "ip": "1.2.3.4",
+      "resource": "m1_script",
+      "active": true
+    }
+  ]
+}
