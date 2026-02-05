@@ -1,20 +1,9 @@
 {
   "licenses": [
     {
-      "key": "M1-1234-TEST",
-      "ip": "1.2.3.4",
-      "resource": "M1_ArmyAnimation",
-      "active": false
-    }
-  ]
-}
-{
-  "licenses": [
-    {
-      "key": "HxM9r1W9CX1dI",
-      "ip": "45.142.107.228",
-      "resource": "M1_ArmyAnimation",
-      "active": true
+      "license": "M1-ABC-123",
+      "ip": "1.1.1.1",
+      "resource": "M1-Dabbah"
     }
   ]
 }
