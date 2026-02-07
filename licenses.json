@@ -1,14 +1,14 @@
 {
   "licenses": [
-    {
-      "license": "M1-H8AIXM0AP",
-      "ip": "45.142.107.228",
-      "resource": "M1_ArmyAnimation"
-    }
-    {
-      "license": "M1-ABC-123",
-      "ip": "1.1.1.1",
-      "resource": "M1-Dabbah"
-    }
+    { "license": "ch7w-H81JH-00812Q", "ip": "45.142.107.228", "resource": "M1_ArmyAnimation" },
+    { "license": "H7-H55AK-AO10A", "ip": "2.2.2.2", "resource": "M1_ArmyAnimation" },
+    { "license": "M1-CLIENT-003", "ip": "3.3.3.3", "resource": "M1_ArmyAnimation" },
+    { "license": "M1-CLIENT-004", "ip": "4.4.4.4", "resource": "M1_ArmyAnimation" },
+    { "license": "M1-CLIENT-005", "ip": "5.5.5.5", "resource": "M1_ArmyAnimation" },
+    { "license": "M1-CLIENT-006", "ip": "6.6.6.6", "resource": "M1_ArmyAnimation" },
+    { "license": "M1-CLIENT-007", "ip": "7.7.7.7", "resource": "M1_ArmyAnimation" },
+    { "license": "M1-CLIENT-008", "ip": "8.8.8.8", "resource": "M1_ArmyAnimation" },
+    { "license": "M1-CLIENT-009", "ip": "9.9.9.9", "resource": "M1_ArmyAnimation" },
+    { "license": "M1-CLIENT-010", "ip": "10.10.10.10", "resource": "M1_ArmyAnimation" }
   ]
 }
