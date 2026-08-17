@@ -1,5 +1,10 @@
 {
-  "licenses": [
-    { "license": "ch7w-H55AK-AO10A"} 
-  ]
+    "licenses": [
+        {
+            "license": "M1-9hzq-71kz-lai1",
+            "ip": "45.142.107.228",
+            "resource": "M1-Scripts",
+            "active": true
+        }
+    ]
 }
