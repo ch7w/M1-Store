@@ -1,1 +1,10 @@
-
+{
+    "licenses": [
+        {
+            "license": "M1-9hzq-71kz-Unic",
+            "ip": "45.142.107.228",
+            "resource": "M1-UniChip",
+            "active": true
+        }
+    ]
+}
