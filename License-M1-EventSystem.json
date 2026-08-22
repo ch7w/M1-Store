@@ -1,1 +1,10 @@
-
+{
+    "licenses": [
+        {
+            "license": "M1-9hzq-71kz-M1",
+            "ip": "45.142.107.228",
+            "resource": "M1-EventsSystem",
+            "active": true
+        }
+    ]
+}
