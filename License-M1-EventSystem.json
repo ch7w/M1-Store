@@ -6,5 +6,11 @@
             "resource": "M1-EventsSystem",
             "active": true
         }
+        {
+            "license": "M1-9hzq-71kz-D-L",
+            "ip": "194.110.12.106",
+            "resource": "M1-EventsSystem",
+            "active": true
+        }
     ]
 }
