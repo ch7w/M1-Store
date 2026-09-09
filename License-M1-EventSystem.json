@@ -7,6 +7,12 @@
             "active": true
         },
         {
+            "license": "M1-9hwq-2as-US",
+            "ip": "45.137.98.181",
+            "resource": "M1-EventsSystem",
+            "active": true
+        },
+        {
             "license": "M1-9hzq-71kz-D-L",
             "ip": "194.110.12.106",
             "resource": "M1-EventsSystem",
